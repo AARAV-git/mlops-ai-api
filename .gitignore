@@ -4,3 +4,9 @@ __pycache__/
 *.pyc
 .env
 *.pkl
+mlruns/
+mlflow.db
+__pycache__/
+*.pyc
+.env
+.dvc/cache/

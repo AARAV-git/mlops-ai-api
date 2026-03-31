@@ -1,0 +1,7 @@
+[core]
+    remote = myremote
+['remote "localstore"']
+    url = ../dvc-storage
+['remote "myremote"']
+    url = azure://mlopscontainer3/path
+    
