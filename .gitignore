@@ -1,0 +1,6 @@
+mlops-env/
+mlruns/
+__pycache__/
+*.pyc
+.env
+*.pkl
